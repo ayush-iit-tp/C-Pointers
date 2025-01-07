@@ -1,0 +1,4 @@
+use
+gcc -mconsole filename.c -o filename.exe
+or use
+gcc filename.c -o filename.exe
